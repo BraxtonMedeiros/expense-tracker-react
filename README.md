@@ -35,6 +35,4 @@ I used React as my framework so that means I had to incorprate Javascript
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 -Be able to connect it to a backend application like MongoDB
